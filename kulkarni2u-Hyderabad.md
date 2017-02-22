@@ -11,3 +11,4 @@
 - [ ] Necklace road.
 - [ ] Tank Bund.
 - [ ] Watch a Movie in iMax.
+- [ ] Shop Pearls near Charminar.
