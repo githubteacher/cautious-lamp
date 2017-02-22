@@ -1,5 +1,7 @@
 # Taipei, Taiwan
 
-### Night market 
+### Places to Eat
+- Night market 
 
-### Night market
+### Places to Go
+- Taipei 101
