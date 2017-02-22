@@ -1,4 +1,4 @@
-# Psadena, CA
+# Pasadena, CA
 
 ### Places to Eat
 - [ ] Home
