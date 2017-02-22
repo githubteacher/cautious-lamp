@@ -2,7 +2,7 @@
 
 ### Places to Eat
 - [ ] Home
-- [ ] Sharky's
+- [ ] Sharky'ss
 - [ ] Anyplace except Panda Express
 
 ### Places to go
