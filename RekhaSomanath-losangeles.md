@@ -4,6 +4,8 @@
 - natalee thai
 - luna grill
 - bubba gump
+- blaze pizza
+- zankou chicken
 
 ### Places to see
 - holloywood sign
