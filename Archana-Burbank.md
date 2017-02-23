@@ -4,7 +4,6 @@
 - Yalla
 - Subway
 - Hook Burger
-
 ### Places to Go
 - iKea
 - Burbank Airport
