@@ -3,8 +3,8 @@
 ### Places to Eat
 - City Tacos
 - Lucha Libre
-- Encontro
-- The Prado
+- Rustic Root
+- NEW RESTAURANT
 
 ### Places to Go
 - Coronado
