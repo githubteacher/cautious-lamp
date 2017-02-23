@@ -2,6 +2,7 @@
 
 ### Places to Eat
 Five Guys
+In-N-Out
 Chilis
 
 ### Places to Go
