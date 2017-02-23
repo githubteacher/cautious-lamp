@@ -4,7 +4,6 @@
 - Fillipi's
 - Wester Steakburger
 - Rubio's
-- Chicen Pie Diner
-- Stubs
+- Somewhere
 ### Places to Go
 - Zoo
