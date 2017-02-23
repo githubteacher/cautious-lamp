@@ -2,6 +2,8 @@
 
 ### Places to Eat
 - City tacos
+- Fish
+- Chicken
 
 ###PLaces to go
 -reseda
