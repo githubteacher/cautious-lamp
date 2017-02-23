@@ -9,4 +9,4 @@
 ### Places to Go
 - Balboa Park
 - San Diego Zoo
-- Sea World
+- beach
