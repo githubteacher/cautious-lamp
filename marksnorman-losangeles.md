@@ -5,6 +5,8 @@
 - Danny's Tacos
 - Forage ... Silverlake
 - Republic of Pies
+- Wahoo's
+- Almost forgot ... Lemonade
 
 ### Places to Go
 - REDCAT
