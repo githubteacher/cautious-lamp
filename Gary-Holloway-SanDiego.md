@@ -1,6 +1,7 @@
 # San Diego, CA
 
 ### Places to Eat
+Buddies Burgers
 Five Guys
 In-N-Out
 Chilis
