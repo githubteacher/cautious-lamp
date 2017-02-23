@@ -1,9 +1,10 @@
 # San Diego, CA
 
 ### Places to Eat
-Five Guys
-Chilis
+- Five Guys
+- Chilis
 
 ### Places to Go
-Sea World
-San Diego Safari
+- Sea World
+- San Diego Safari
+- Pacific Beach
