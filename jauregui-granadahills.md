@@ -9,3 +9,4 @@ Del Taco (Rene's favorite)
 
 ### Places to Go
 Lowes
+Home Depot
