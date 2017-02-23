@@ -3,6 +3,8 @@
 ### Places to Eat
 - City Tacos
 - Lucha Libre
+- Rustic Root
+- Rubio's
 
 ### Places to Go
 - Coronado
