@@ -7,3 +7,5 @@
 ### Places to Go
 - iKea
 - Burbank Airport
+- Griffith Park
+- Universal City
