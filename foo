@@ -1,0 +1,3 @@
+PRINT "Hello, world!"
+GOTO 1
+BYE
