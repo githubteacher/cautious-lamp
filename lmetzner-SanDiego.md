@@ -3,8 +3,8 @@
 ### Places to Eat
 - Old Spaghetti Factory
 - Rubio's
-- P.F. Chang's
 - DeMille's
+- Extraordinary Desserts
 
 ### Places to Go
 - Balboa Park
