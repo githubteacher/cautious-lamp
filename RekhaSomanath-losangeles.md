@@ -4,6 +4,7 @@
 - natalee thai
 - luna grill
 - bubba gump
+- kabob factory
 
 ### Places to see
 - holloywood sign
