@@ -5,6 +5,7 @@
 - [ ] Lunch - Biryani at Bawarchi or Paradise!
 - [ ] Chat/Snacks at Gokul Chat
 - [ ] Irani Chai for evening - any Cafe.
+- [ ] Eat road side Pani Puri. 
 
 ### Places to Go!
 - [ ] Golkonda Fort.
