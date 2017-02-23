@@ -6,3 +6,4 @@
 ### Places to Go
 - San Diego Zoo
 - Sea World
+- San Diego Safari Park
