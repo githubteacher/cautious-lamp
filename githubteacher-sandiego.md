@@ -7,3 +7,5 @@
 ### Places to Go
 - Coronado
 - Balboa Park
+- Sea World 
+- Legoland
