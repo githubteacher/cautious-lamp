@@ -7,3 +7,4 @@
 ### Places to GO
 - Cascad
 - National Monuments
+- Garni
