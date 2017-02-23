@@ -2,8 +2,9 @@
 
 ###McDonald
 -hooks
---sharky's
 
+-sharky's
+-subways
 ###SFO
 -palm springs
 -Grand Canyon
