@@ -13,5 +13,6 @@
 - [ ] Tank Bund - Stroll in the evening to see a nice view of Hussain Sagar lake.
 - [ ] Watch a Movie in iMax.
 - [ ] Shop Pearls near Charminar.
+- [ ] Visit Birla Temple.
 
 ## Thanks and Vist again ;)
