@@ -8,3 +8,4 @@
 ### Places to go
 - [ ] Home
 - [ ] H*ll
+- [ ] Someplace to eat
