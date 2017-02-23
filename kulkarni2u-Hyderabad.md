@@ -10,7 +10,7 @@
 - [ ] Golkonda Fort.
 - [ ] Charminar.
 - [ ] Necklace road.
-- [ ] Tank Bund.
+- [ ] Tank Bund - Stroll in the evening to see a nice view of Hussain Sagar lake.
 - [ ] Watch a Movie in iMax.
 - [ ] Shop Pearls near Charminar.
 
