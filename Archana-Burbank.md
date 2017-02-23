@@ -3,7 +3,7 @@
 - Sharkey's
 - Yalla
 - Subway
-
+- Daphneys
 ### Places to Go
 - iKea
 - Burbank Airport
