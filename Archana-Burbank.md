@@ -3,6 +3,7 @@
 - Sharkey's
 - Yalla
 - Subway
+- Hook Burger
 
 ### Places to Go
 - iKea
