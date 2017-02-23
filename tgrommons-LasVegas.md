@@ -6,4 +6,5 @@
 
 ### Places to Go
 - Red Rock Canyon
-- Wetlands Preserver
+- Wetlands Preserve
+- Lake Las Vegas
