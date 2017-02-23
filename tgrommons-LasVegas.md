@@ -4,7 +4,7 @@
 - Wahoo's
 - Shakespeare's
 - Maggiano's
-- MarguaritaVilles
+- Marguerita
 
 ### Places to Go
 - Red Rock Canyon
