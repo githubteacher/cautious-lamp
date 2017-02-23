@@ -5,6 +5,7 @@
 - Lure
 - McDonalds
 - Burger King
+- Don Cucos
 
 ### Places to Go
 - Disney
