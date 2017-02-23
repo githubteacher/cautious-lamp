@@ -5,6 +5,7 @@
 - Los Angeles
 - Hollywood
 - Disney
+- Santa Monica
 
 ### Places to eat
 -Dominos
