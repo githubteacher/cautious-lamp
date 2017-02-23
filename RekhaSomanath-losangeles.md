@@ -3,6 +3,7 @@
 ### Places to eat
 - natalee thai
 - luna grill
+- bubba gump
 
 ### Places to see
 - holloywood sign
