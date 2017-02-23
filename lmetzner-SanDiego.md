@@ -3,10 +3,10 @@
 ### Places to Eat
 - Old Spaghetti Factory
 - Rubio's
-- Home
-- Friend's house
+- DeMille's
+- Extraordinary Desserts
 
 ### Places to Go
 - Balboa Park
 - San Diego Zoo
-- Sea World
+- beach
