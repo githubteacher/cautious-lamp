@@ -2,7 +2,7 @@
 
 ### Places to Eat
 - Papa Johns Pizza
-- Souplantaion
+- Souplantation
 - Cheesecake Factory
 
 ### Places to Go
