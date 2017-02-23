@@ -8,3 +8,4 @@ Denny's
 Del Taco (Rene's favorite)
 
 ### Places to Go
+Home Depot
