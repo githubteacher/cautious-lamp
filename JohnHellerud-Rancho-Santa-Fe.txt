@@ -1,4 +1,6 @@
-Dolce Pane E Vino
--- Note: I no CR
-:ship
-
+Places to Eat:
+	Dolce Pane E Vino
+	Rubio's
+Places to Visit:
+	Disneyland
+	SeaWorld
